@@ -178,19 +178,17 @@ A Python project focused on data structures, telemetry, monitoring and operation
 
 ## GitHub Statistics
 
+## GitHub Statistics
+
 <div align="center">
 
-<a href="https://github.com/lucasgesini45-coder">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasgesini45-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucasgesini45-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
-<a href="https://github.com/lucasgesini45-coder">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgesini45-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgesini45-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=lucasgesini45-coder&theme=tokyonight&hide_border=true" width="70%"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=lucasgesini45-coder&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
